@@ -1,54 +1,75 @@
-# Olá, sou o CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Sobre Mim
 
-Sou recém-licenciado com um interesse profundo em tecnologia e uma dedicação à resolução de problemas complexos.
+Olá! O meu nome é **Rafael Alexandre Fernandes Oliveira** e sou Técnico de Gestão de Equipamentos Informáticos, formado pela Escola Secundária João de Barros, no Seixal. Concluí o curso profissional de nível 4 do Quadro Nacional de Qualificações, com uma classificação final de 15 valores, o que me conferiu uma sólida preparação técnica e prática para o mundo das tecnologias de informação e comunicação.
 
-## Objetivo
+---
 
-A minha jornada em informática levou-me a desenvolver uma paixão pela cibersegurança e, neste momento, estou motivado para iniciar carreira nesta área, com o objetivo de integrar um Security Operations Center (SOC) como Analista de Nível 1.
+## 🎓 Formação Académica
 
-## Competências
+**Curso Profissional de Técnico de Gestão de Equipamentos Informáticos**  
+*Escola Secundária João de Barros, Seixal*  
+Ano de conclusão: 2019/2020  
+Classificação final: 15 valores
 
-| Competência                                    | Projeto Associado         |
-|------------------------------------------------|--------------------------|
-| Implementação de SIEM e Análise de Logs        | <a href="https://google.com">Detection Lab</a>|
-| Monitorização de Tráfego de Rede e Deteção de Ataques | <a href="https://google.com">Detection Lab</a>|
-| Automação de Segurança com Shuffle SOAR         | SOC Automation Lab|
-| Planeamento e Execução de Resposta a Incidentes | SOC Automation Lab|
-| Gestão de Casos com TheHive                    | SOC Automation Lab|
-| Scripting e Automação para Mitigação de Ameaças | SOC Automation Lab|
+**Principais áreas de formação:**
+- Montagem, instalação e manutenção de sistemas informáticos
+- Diagnóstico e resolução de avarias em hardware e software
+- Instalação e administração de redes de computadores
+- Configuração de sistemas operativos (Windows e Linux)
+- Instalação e configuração de periféricos e dispositivos
+- Criação e atualização de páginas web
+- Instalação e administração de soluções de segurança informática (antivírus, firewall, backup)
+- Apoio técnico e formação a utilizadores
+- Análise e implementação de circuitos electrónicos e digitais
+- Programação e algoritmia aplicada a hardware
 
-## Ferramentas
+---
 
-### Rede
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 💼 Perfil Profissional
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+Sou um profissional qualificado, capaz de:
+- Planear, instalar e administrar redes informáticas e os seus equipamentos
+- Diagnosticar e corrigir falhas em sistemas informáticos e redes
+- Implementar medidas de segurança e backup de dados
+- Prestar suporte técnico eficiente a utilizadores e empresas
+- Adaptar-me rapidamente a novas tecnologias e desafios
+- Trabalhar em equipa e comunicar de forma clara e eficaz
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
-## Certificações
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## 🛠️ Competências Técnicas
 
-## Projetos
-- Detection Lab
-- SOC Automation Project
+- **Hardware:** Montagem, manutenção e reparação de computadores e periféricos
+- **Redes:** Instalação, configuração e administração de redes locais (LAN), segmentação de redes, configuração de routers e switches, protocolos TCP/IP, subnetting
+- **Sistemas Operativos:** Instalação e administração de Windows e Linux, gestão de utilizadores e permissões, políticas de segurança
+- **Software:** Instalação e configuração de aplicações, diagnóstico e resolução de problemas de software
+- **Segurança:** Implementação de soluções antivírus, firewalls, backups e recuperação de dados
+- **Web:** Criação e manutenção de páginas web, HTML, CSS
+- **Electrónica:** Montagem e análise de circuitos electrónicos, soldadura, diagnóstico de avarias em placas
+
+---
+
+## 📄 Certificação
+
+- Certificado de Qualificação Nível 4 – Técnico de Gestão de Equipamentos Informáticos  
+- Certificado Escolar emitido pela Escola Secundária João de Barros, Seixal
+
+---
+
+## 🚀 O que procuro
+
+Procuro integrar equipas técnicas em empresas dinâmicas, onde possa aplicar e aprofundar as minhas competências em informática, redes e apoio técnico, contribuindo para a inovação e resolução de desafios tecnológicos. Estou disponível para funções de suporte, manutenção, administração de sistemas e redes, e projetos de modernização tecnológica.
+
+---
+
+## 📫 Contactos
+
+- [LinkedIn](https://linkedin.com/in/SEU_PERFIL)
+- Email: SEU_EMAIL@dominio.pt
+- Localização: Margem Sul / Lisboa
+
+---
+
+> “A tecnologia é a ferramenta, mas o conhecimento e a dedicação são o que fazem a diferença.”  
+
+Se procura um técnico dedicado, com formação sólida e vontade de aprender e evoluir, terei todo o gosto em conversar consigo!
