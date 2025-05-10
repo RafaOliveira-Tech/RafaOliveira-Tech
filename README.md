@@ -103,7 +103,3 @@ I am a Computer Equipment Management Technician (Level 4) and currently a Cybers
 ---
 
 > “Technology is the tool, but knowledge and dedication make the difference.”
-
-
-- **Languages**: Portuguese
-                 English
