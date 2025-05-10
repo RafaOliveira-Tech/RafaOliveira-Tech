@@ -84,13 +84,6 @@ Sou Técnico de Gestão de Equipamentos Informáticos (nível 4) e atualmente fr
   Planeamento, montagem e configuração de redes físicas e wireless, com segmentação e implementação de políticas de segurança.
 - **Gestão e Manutenção de Equipamentos Informáticos:**  
   Diagnóstico, reparação e atualização de hardware e software em ambiente empresarial e educacional.
-- **Desenvolvimento de Página Web Institucional:**  
-  Criação de site informativo para apresentação de serviços e contacto.
-  
----
-
-## 🌐 Presença Digital
-xxxxxx
 
 ---
 
