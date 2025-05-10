@@ -87,6 +87,15 @@ Sou Técnico de Gestão de Equipamentos Informáticos (nível 4) e atualmente fr
 
 ---
 
+## 🌍 Idiomas
+
+| Idioma     | Nível         |
+|------------|---------------|
+| Português  | Nativo        |
+| Inglês     | Avançado |
+
+---
+
 ## 📫 Contacto
 
 - [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN)
