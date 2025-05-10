@@ -1,75 +1,111 @@
-# Sobre Mim
+# Rafael Alexandre Fernandes Oliveira
 
-Olá! O meu nome é **Rafael Alexandre Fernandes Oliveira** e sou Técnico de Gestão de Equipamentos Informáticos, formado pela Escola Secundária João de Barros, no Seixal. Concluí o curso profissional de nível 4 do Quadro Nacional de Qualificações, com uma classificação final de 15 valores, o que me conferiu uma sólida preparação técnica e prática para o mundo das tecnologias de informação e comunicação.
+<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+---
+
+## 👤 Sobre Mim
+
+Sou Técnico de Gestão de Equipamentos Informáticos (nível 4, Escola Secundária João de Barros, 2020, 15 valores) e atualmente frequento o curso de Técnico Especialista em Cibersegurança (2024-2025). Tenho experiência sólida em montagem, manutenção, redes e segurança informática, e estou a aprofundar competências em cibersegurança, análise de vulnerabilidades e resposta a incidentes.
+
+---
+
+## 🚀 Áreas de Interesse
+
+- Redes e Segurança de Sistemas
+- Análise de Vulnerabilidades
+- Resposta a Incidentes e Forense Digital
+- Automação e Scripting para Segurança
+- Administração de Sistemas Windows e Linux
 
 ---
 
 ## 🎓 Formação Académica
 
-**Curso Profissional de Técnico de Gestão de Equipamentos Informáticos**  
-*Escola Secundária João de Barros, Seixal*  
-Ano de conclusão: 2019/2020  
-Classificação final: 15 valores
+**Técnico Especialista em Cibersegurança**  
+*Outubro 2024 – Julho 2025 (em curso)*  
 
-**Principais áreas de formação:**
-- Montagem, instalação e manutenção de sistemas informáticos
-- Diagnóstico e resolução de avarias em hardware e software
-- Instalação e administração de redes de computadores
-- Configuração de sistemas operativos (Windows e Linux)
-- Instalação e configuração de periféricos e dispositivos
-- Criação e atualização de páginas web
-- Instalação e administração de soluções de segurança informática (antivírus, firewall, backup)
-- Apoio técnico e formação a utilizadores
-- Análise e implementação de circuitos electrónicos e digitais
+- Fundamentos de cibersegurança, legislação, privacidade
+- Redes de computadores (avançado), serviços de rede, gestão de redes
+- Análise de vulnerabilidades (OWASP, CVE, Nessus, OpenVAS)
+- Tecnologias de análise de evidências digitais e logs
+- Programação aplicada à cibersegurança (scripts, expressões regulares, automação)
+- Cibersegurança ativa, resposta a incidentes, forense digital
+- Wargaming e simulação de ataques/defesa
+- Estágio em contexto real de trabalho (500-850h)
+
+**Técnico de Gestão de Equipamentos Informáticos**  
+*Escola Secundária João de Barros (2017-2020)*
+
+- Montagem, instalação e manutenção de computadores, periféricos e redes
+- Diagnóstico e reparação de hardware e software
+- Instalação e administração de sistemas operativos (Windows e Linux)
+- Apoio técnico a utilizadores
+- Instalação e configuração de aplicações e dispositivos
+- Criação e atualização de páginas web (HTML, CSS)
+- Implementação de soluções de segurança informática (antivírus, firewall, backup)
+- Análise e montagem de circuitos eletrónicos e digitais
 - Programação e algoritmia aplicada a hardware
-
----
-
-## 💼 Perfil Profissional
-
-Sou um profissional qualificado, capaz de:
-- Planear, instalar e administrar redes informáticas e os seus equipamentos
-- Diagnosticar e corrigir falhas em sistemas informáticos e redes
-- Implementar medidas de segurança e backup de dados
-- Prestar suporte técnico eficiente a utilizadores e empresas
-- Adaptar-me rapidamente a novas tecnologias e desafios
-- Trabalhar em equipa e comunicar de forma clara e eficaz
+- Estágio profissional em ambiente real
 
 ---
 
 ## 🛠️ Competências Técnicas
 
-- **Hardware:** Montagem, manutenção e reparação de computadores e periféricos
-- **Redes:** Instalação, configuração e administração de redes locais (LAN), segmentação de redes, configuração de routers e switches, protocolos TCP/IP, subnetting
-- **Sistemas Operativos:** Instalação e administração de Windows e Linux, gestão de utilizadores e permissões, políticas de segurança
-- **Software:** Instalação e configuração de aplicações, diagnóstico e resolução de problemas de software
-- **Segurança:** Implementação de soluções antivírus, firewalls, backups e recuperação de dados
-- **Web:** Criação e manutenção de páginas web, HTML, CSS
-- **Electrónica:** Montagem e análise de circuitos electrónicos, soldadura, diagnóstico de avarias em placas
+| Área                | Tecnologias/Ferramentas      |
+|---------------------|-----------------------------|
+| Redes               | Wireshark, pfSense, VLANs   |
+| Segurança           |                             |
+| Sistemas            | Windows Server, Linux, VMware|
+| Programação         | Python, Ruby, Expressões Regulares |
 
 ---
 
-## 📄 Certificação
+## 🏆 Certificações
 
-- Certificado de Qualificação Nível 4 – Técnico de Gestão de Equipamentos Informáticos  
-- Certificado Escolar emitido pela Escola Secundária João de Barros, Seixal
+- Certificado de Qualificação Nível 4 – Técnico de Gestão de Equipamentos Informáticos
+- (Em curso) Certificação de Técnico Especialista em Cibersegurança
 
----
-
-## 🚀 O que procuro
-
-Procuro integrar equipas técnicas em empresas dinâmicas, onde possa aplicar e aprofundar as minhas competências em informática, redes e apoio técnico, contribuindo para a inovação e resolução de desafios tecnológicos. Estou disponível para funções de suporte, manutenção, administração de sistemas e redes, e projetos de modernização tecnológica.
 
 ---
 
-## 📫 Contactos
+## 🗂️ Projetos e Trabalhos
 
-- [LinkedIn](https://linkedin.com/in/SEU_PERFIL)
-- Email: SEU_EMAIL@dominio.pt
-- Localização: Margem Sul / Lisboa
+### Em Andamento
+- **Laboratório de Cibersegurança:**  
+  Ambiente virtualizado para simulação de ataques, deteção de intrusões (IDS/IPS), análise de logs e resposta a incidentes.
+- **Projeto de Wargaming:**  
+  Desenvolvimento de cenários práticos de defesa e ataque em redes, com exercícios de “Capture the Flag” e simulação de incidentes reais.
+
+### Concluídos
+- **Instalação e Administração de Redes Locais:**  
+  Planeamento, montagem e configuração de redes físicas e wireless, com segmentação e implementação de políticas de segurança.
+- **Gestão e Manutenção de Equipamentos Informáticos:**  
+  Diagnóstico, reparação e atualização de hardware e software em ambiente empresarial e educacional.
+- **Desenvolvimento de Página Web Institucional:**  
+  Criação de site informativo para apresentação de serviços e contacto.
+  
+---
+
+## 🌐 Presença Digital
+xxxxxx
 
 ---
 
-> “A tecnologia é a ferramenta, mas o conhecimento e a dedicação são o que fazem a diferença.”  
+## 📫 Contacto
 
-Se procura um técnico dedicado, com formação sólida e vontade de aprender e evoluir, terei todo o gosto em conversar consigo!
+- [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN)
+- Email: rafaalexfernandesoliveira@gmail.com
+
+
+---
+
+> “A tecnologia é a ferramenta, mas o conhecimento e a dedicação são o que fazem a diferença.”
+
+- **Idiomas**: Português
+               Inglês
