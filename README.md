@@ -1,60 +1,100 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Rafael Oliveira
 
-[Brief Introduction - Remove this afterwards]
+<a href="https://www.linkedin.com/in/rafael-oliveira-034506253/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+---
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 👤 About Me
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a Computer Equipment Management Technician (Level 4, Escola Secundária João de Barros, 2020, grade 15/20) and currently a Cybersecurity Specialist Technician (2024-2025). I have solid experience in hardware, maintenance, networking, and IT security, and I am now deepening my skills in cybersecurity, vulnerability analysis, and incident response.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 🚀 Areas of Interest
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+- Networking and Systems Security
+- Vulnerability Assessment
+- Incident Response and Digital Forensics
+- Security Automation and Scripting
+- Windows and Linux Systems Administration
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+---
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## 🎓 Academic Background
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+**Cybersecurity Specialist Technician**  
+*October 2024 – July 2025 (ongoing)*  
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+- Cybersecurity fundamentals, legislation, privacy
+- Advanced networking, network services, network management
+- Vulnerability analysis (OWASP, CVE, Nessus, OpenVAS)
+- Digital evidence and log analysis technologies
+- Scripting for cybersecurity (scripts, regex, automation)
+- Active cybersecurity, incident response, digital forensics
+- Wargaming and attack/defense simulations
+- Real-world internship (500-850h)
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+**Computer Equipment Management Technician**  
+*Escola Secundária João de Barros, Seixal (2017-2020)*  
+
+- Assembly, installation, and maintenance of computers, peripherals, and networks
+- Hardware and software troubleshooting
+- Windows and Linux OS installation and administration
+- Technical support for users
+- Application and device installation/configuration
+- Web page creation and updating (HTML, CSS)
+- Implementation of IT security solutions (antivirus, firewall, backup)
+- Analysis and assembly of electronic and digital circuits
+- Programming and algorithms applied to hardware
+- Professional internship in a real environment
+
+---
+
+## 🛠️ Technical Skills
+
+| Area                | Technologies/Tools           |
+|---------------------|-----------------------------|
+| Networking          | Wireshark, pfSense, VLANs   |
+| Security            |                             |
+| Systems             | Windows Server, Linux, VMware|
+| Programming         | Python, Ruby, Regex         |
+
+---
+
+## 🏆 Certifications
+
+- Level 4 Qualification Certificate – Computer Equipment Management Technician
+- (Ongoing) Cybersecurity Specialist Technician Certification
+
+---
+
+## 🗂️ Projects and Work
+
+### In Progress
+- **Cybersecurity Lab:**  
+  Virtual environment for attack simulation, IDS/IPS, log analysis, and incident response.
+- **Wargaming Project:**  
+  Practical scenarios of network defense and attack, with Capture the Flag exercises and real incident simulations.
+
+### Completed
+- **Local Network Installation and Administration:**  
+  Planning, assembly, and configuration of physical and wireless networks, segmentation, and security policies.
+- **IT Equipment Management and Maintenance:**  
+  Diagnosis, repair, and upgrade of hardware and software in business and educational environments.
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/rafael-oliveira-034506253/)
+- Email: rafaalexfernandesoliveira@gmail.com
+
+---
+
+> “Technology is the tool, but knowledge and dedication make the difference.”
+
+
+- **Languages**: Portuguese
+                 English
