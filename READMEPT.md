@@ -56,7 +56,7 @@ Sou Técnico de Gestão de Equipamentos Informáticos (nível 4) e atualmente fr
 
 | Área                | Tecnologias/Ferramentas      |
 |---------------------|-----------------------------|
-| Redes               | Wireshark, pfSense, VLANs   |
+| Redes               | Wireshark, VLANs   |
 | Segurança           |  PfSense                    |
 | Sistemas            | Windows Server, Linux, VMware|
 | Programação         | Python, Ruby, Expressões Regulares |
