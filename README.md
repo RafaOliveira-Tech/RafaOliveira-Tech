@@ -56,8 +56,8 @@ I am a Computer Equipment Management Technician (Level 4) and currently a Cybers
 
 | Area                | Technologies/Tools           |
 |---------------------|-----------------------------|
-| Networking          | Wireshark, pfSense, VLANs   |
-| Security            |                             |
+| Networking          | Wireshark,VLANs   |
+| Security            | PfSense                         |
 | Systems             | Windows Server, Linux, VMware|
 | Programming         | Python, Ruby, Regex         |
 
