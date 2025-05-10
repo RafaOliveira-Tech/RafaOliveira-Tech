@@ -1,10 +1,4 @@
-# Rafael Alexandre Fernandes Oliveira
-
-<a href="https://www.linkedin.com/in/rafael-oliveira-034506253/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
----
+# Rafael Oliveira
 
 ## 👤 Sobre Mim
 
