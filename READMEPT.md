@@ -57,7 +57,7 @@ Sou Técnico de Gestão de Equipamentos Informáticos (nível 4) e atualmente fr
 | Área                | Tecnologias/Ferramentas      |
 |---------------------|-----------------------------|
 | Redes               | Wireshark, pfSense, VLANs   |
-| Segurança           |                             |
+| Segurança           |  PfSense                    |
 | Sistemas            | Windows Server, Linux, VMware|
 | Programação         | Python, Ruby, Expressões Regulares |
 
@@ -105,9 +105,4 @@ Sou Técnico de Gestão de Equipamentos Informáticos (nível 4) e atualmente fr
 ---
 
 > “A tecnologia é a ferramenta, mas o conhecimento e a dedicação são o que fazem a diferença.”
-
-| Idiomas |
-|---------|
-|Português| 
-| Inglês |
 
