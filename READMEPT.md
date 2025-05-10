@@ -1,9 +1,9 @@
 # Rafael Alexandre Fernandes Oliveira
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/rafael-oliveira-034506253/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:rafaalexfernandesoliveira@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -11,7 +11,7 @@
 
 ## 👤 Sobre Mim
 
-Sou Técnico de Gestão de Equipamentos Informáticos (nível 4, Escola Secundária João de Barros, 2020, 15 valores) e atualmente frequento o curso de Técnico Especialista em Cibersegurança (2024-2025). Tenho experiência sólida em montagem, manutenção, redes e segurança informática, e estou a aprofundar competências em cibersegurança, análise de vulnerabilidades e resposta a incidentes.
+Sou Técnico de Gestão de Equipamentos Informáticos (nível 4) e atualmente frequento o curso de Técnico Especialista em Cibersegurança (2024-2025). Tenho experiência sólida em montagem, manutenção, redes e segurança informática, e estou a aprofundar competências em cibersegurança, análise de vulnerabilidades e resposta a incidentes.
 
 ---
 
