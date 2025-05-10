@@ -86,6 +86,15 @@ I am a Computer Equipment Management Technician (Level 4) and currently a Cybers
 
 ---
 
+## 🌍 Languages
+
+| Language    | Level                    |
+|-------------|--------------------------|
+| Portuguese  | Native                   |
+| English     | Advanced|
+
+---
+
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/rafael-oliveira-034506253/)
