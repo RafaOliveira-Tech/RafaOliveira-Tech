@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-I am a Computer Equipment Management Technician (Level 4, Escola Secundária João de Barros, 2020, grade 15/20) and currently a Cybersecurity Specialist Technician (2024-2025). I have solid experience in hardware, maintenance, networking, and IT security, and I am now deepening my skills in cybersecurity, vulnerability analysis, and incident response.
+I am a Computer Equipment Management Technician (Level 4) and currently a Cybersecurity Specialist Technician (2024-2025). I have solid experience in hardware, maintenance, networking, and IT security, and I am now deepening my skills in cybersecurity, vulnerability analysis, and incident response.
 
 ---
 
