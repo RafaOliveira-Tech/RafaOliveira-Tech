@@ -97,5 +97,8 @@ Sou Técnico de Gestão de Equipamentos Informáticos (nível 4) e atualmente fr
 
 > “A tecnologia é a ferramenta, mas o conhecimento e a dedicação são o que fazem a diferença.”
 
-- **Idiomas**: |Português|
-- |Inglês|
+| Idiomas|
+|--------|
+|Português| 
+| Inglês |
+
